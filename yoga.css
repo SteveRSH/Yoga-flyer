@@ -1,0 +1,52 @@
+body, html{
+    background-color: bisque;
+    height: 100%;
+}
+
+#image_cover{    
+    background-position: center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    height: 159%;
+    width: 80%;
+    margin: auto;
+}
+
+.headingParagraph{
+    margin: 0;
+    color: white;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;   
+}
+
+#yoga_heading1{
+    top: 85%;
+    font-size: 90px;
+}
+
+#yoga_heading2{
+    top: 95%;
+    font-size: 90px;
+}
+
+#firstParagraph{
+    font-size: 25px;
+    top: 120%;
+}
+
+#availableSchedule{
+    font-size: 20px;
+    top: 130%;
+}
+
+#scheduleAvailable{
+    font-size: 20px;
+    top: 134%;
+}
+
+
+
